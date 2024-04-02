@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13410a9784500751",
+        "id": "6d6d8d061b1cfacc",
         "type": "tabs",
         "children": [
           {
-            "id": "3de5dbd5b6cec63e",
+            "id": "5903d5b3ff09fba5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2024-4-2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-4-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-4-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2024-4-2.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,20 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3de5dbd5b6cec63e",
+  "active": "5903d5b3ff09fba5",
   "lastOpenFiles": [
-    "Projects/KIXEL/Kixel Milestone.md",
+    "Projects/README.md",
+    "Ideas/README.md",
+    "Extra/README.md",
+    "Diary/README.md",
     "Diary/2024-4-2.md",
+    "Projects/KIXEL/Kixel Milestone.md",
     "Kixel Milestone^use-real-data.md",
     "Ideas/Decorator Join.md",
     "Projects/MAYBE",
     "Projects/KIXEL",
     "Projects/Untitled.md",
-    "Projects/README.md",
-    "Ideas/README.md",
-    "Extra/README.md",
     "Ideas/Untitled",
-    "Diary/README.md",
     "Extra",
     "Untitled.md",
     "Ideas",
