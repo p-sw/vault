@@ -11,8 +11,12 @@
             "id": "5903d5b3ff09fba5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024-4-3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/2024-4-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2024-4-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/2024-4-3.md"
+              }
             }
           }
         ],
@@ -140,11 +148,14 @@
   },
   "active": "5903d5b3ff09fba5",
   "lastOpenFiles": [
+    "Diary/2024-4-2.md",
+    "Diary/2024-4-3.md",
+    "Untitled.canvas",
+    "2024-04-03.md",
     "Projects/README.md",
     "Ideas/README.md",
     "Extra/README.md",
     "Diary/README.md",
-    "Diary/2024-4-2.md",
     "Projects/KIXEL/Kixel Milestone.md",
     "Kixel Milestone^use-real-data.md",
     "Ideas/Decorator Join.md",
